@@ -1,0 +1,101 @@
+,Player Name,Team,Position,Salary,Age
+0,Stephen Strasburg,Nationals,SP,"$39,333,334",30
+1,Max Scherzer,Nationals,SP,"$37,505,562",34
+2,Zack Greinke,Astros,SP,"$34,500,000",35
+3,David Price,Red Sox,SP,"$31,000,000",33
+4,Clayton Kershaw,Dodgers,SP,"$31,000,000",31
+5,Miguel Cabrera,Tigers,1B,"$30,000,000",36
+6,Yoenis Cespedes,Mets,CF,"$29,000,000",33
+7,Justin Verlander,Astros,SP,"$28,075,000",36
+8,Albert Pujols,Angels,1B,"$28,000,000",39
+9,Felix Hernandez,Mariners,SP,"$27,857,142",33
+10,Jon Lester,Cubs,SP,"$27,500,000",35
+11,Nolan Arenado,Rockies,3B,"$26,050,000",28
+12,Giancarlo Stanton,Yankees,DH,"$26,000,000",29
+13,Jordan Zimmermann,Tigers,SP,"$25,000,000",33
+14,Jake Arrieta,Phillies,SP,"$25,000,000",33
+15,Joey Votto,Reds,1B,"$25,000,000",35
+16,Robinson Cano,Mets,2B,"$24,000,000",36
+17,J.D. Martinez,Red Sox,DH,"$23,750,000",31
+18,Josh Donaldson,Braves,3B,"$23,000,000",33
+19,Jason Heyward,Cubs,RF,"$22,500,000",29
+20,Buster Posey,Giants,C,"$22,177,777",32
+21,Masahiro Tanaka,Yankees,SP,"$22,000,000",30
+22,Edwin Encarnacion,Yankees,DH,"$21,666,668",36
+23,Freddie Freeman,Braves,1B,"$21,409,375",29
+24,Charlie Blackmon,Rockies,RF,"$21,333,333",32
+25,Dallas Keuchel,Braves,SP,"$21,210,000",31
+26,Jacoby Ellsbury,Yankees,CF,"$21,142,857",35
+27,Rick Porcello,Red Sox,SP,"$21,125,000",30
+28,Chris Davis,Orioles,1B,"$21,065,362",33
+29,Eric Hosmer,Padres,1B,"$21,000,000",29
+30,Shin-Soo Choo,Rangers,DH,"$21,000,000",36
+31,Johnny Cueto,Giants,SP,"$21,000,000",33
+32,Carlos Santana,Indians,DH,"$20,333,333",33
+33,Mookie Betts,Red Sox,RF,"$20,100,000",26
+34,Alex Gordon,Royals,LF,"$20,000,000",35
+35,Wei-Yin Chen,Marlins,RP,"$20,000,000",33
+36,Yu Darvish,Cubs,SP,"$20,000,000",32
+37,Cole Hamels,Cubs,SP,"$20,000,000",35
+38,Yadier Molina,Cardinals,C,"$20,000,000",36
+39,Russell Martin,Dodgers,C,"$20,000,000",36
+40,Jeff Samardzija,Giants,SP,"$19,800,000",34
+41,Kyle Seager,Mariners,3B,"$19,500,000",31
+42,Kenley Jansen,Dodgers,RP/CL,"$19,333,334",31
+43,Ryan Braun,Brewers,LF,"$19,000,000",35
+44,Mark Melancon,Braves,RP/CL,"$19,000,000",34
+45,Justin Turner,Dodgers,3B,"$19,000,000",34
+46,Anthony Rendon,Nationals,3B,"$18,800,000",29
+47,Rich Hill,Dodgers,SP,"$18,666,668",39
+48,Wade Davis,Rockies,RP/CL,"$18,000,000",33
+49,Justin Upton,Angels,LF,"$18,000,000",31
+50,Ryan Zimmerman,Nationals,1B,"$18,000,000",34
+51,Hyun-Jin Ryu,Dodgers,SP,"$17,900,000",32
+52,Corey Kluber,Rangers,SP,"$17,700,000",33
+53,Mike Trout,Angels,CF,"$17,666,667",27
+54,Aroldis Chapman,Yankees,RP/CL,"$17,200,000",31
+55,Brandon Belt,Giants,1B,"$17,200,000",31
+56,Nathan Eovaldi,Red Sox,SP,"$17,000,000",29
+57,J.A. Happ,Yankees,SP,"$17,000,000",36
+58,Ian Kennedy,Royals,RP/CL,"$16,500,000",34
+59,Khris Davis,Athletics,DH,"$16,500,000",31
+60,Dexter Fowler,Cardinals,CF,"$16,500,000",33
+61,Jose Abreu,White Sox,DH,"$16,015,000",32
+62,Mike Leake,Diamondbacks,SP,"$16,000,000",31
+63,Yasmani Grandal,Brewers,C,"$16,000,000",30
+64,Michael Brantley,Astros,LF,"$16,000,000",32
+65,Paul Goldschmidt,Cardinals,1B,"$15,500,000",31
+66,Danny Duffy,Royals,SP,"$15,250,000",30
+67,Elvis Andrus,Rangers,SS,"$15,250,000",30
+68,Brandon Crawford,Giants,SS,"$15,200,000",32
+69,Dustin Pedroia,Red Sox,2B,"$15,125,000",35
+70,Lorenzo Cain,Brewers,CF,"$15,025,000",33
+71,Ian Desmond,Rockies,CF,"$15,000,000",33
+72,Charlie Morton,Rays,SP,"$15,000,000",35
+73,Martin Prado,Marlins,1B,"$15,000,000",35
+74,Chris Sale,Red Sox,SP,"$15,000,000",30
+75,Jean Segura,Phillies,SS,"$14,950,000",29
+76,Matt Carpenter,Cardinals,1B,"$14,750,000",33
+77,Jason Kipnis,Indians,2B,"$14,666,668",32
+78,Evan Longoria,Giants,3B,"$14,500,000",33
+79,Jay Bruce,Phillies,RF,"$14,000,000",32
+80,Alex Cobb,Orioles,SP,"$14,000,000",31
+81,Nelson Cruz,Twins,DH,"$14,000,000",38
+82,Mark Trumbo,Orioles,DH,"$13,500,000",33
+83,Gerrit Cole,Astros,SP,"$13,500,000",28
+84,Dee Gordon,Mariners,2B,"$13,300,000",31
+85,Trevor Bauer,Reds,SP,"$13,000,000",28
+86,Andrelton Simmons,Angels,SS,"$13,000,000",29
+87,Zack Britton,Yankees,RP/CL,"$13,000,000",31
+88,Josh Reddick,Astros,RF,"$13,000,000",32
+89,Jedd Gyorko,Dodgers,3B,"$13,000,000",30
+90,Patrick Corbin,Nationals,SP,"$12,916,666",29
+91,Kris Bryant,Cubs,3B,"$12,900,000",27
+92,Zack Cozart,Angels,3B,"$12,666,666",33
+93,Ben Zobrist,Cubs,2B,"$12,500,000",38
+94,Tyler Chatwood,Cubs,RP,"$12,500,000",29
+95,Andrew Cashner,Red Sox,RP,"$12,500,000",32
+96,Marcell Ozuna,Cardinals,LF,"$12,250,000",28
+97,Manny Machado,Padres,3B,"$12,000,000",26
+98,Xander Bogaerts,Red Sox,SS,"$12,000,000",26
+99,D.J. LeMahieu,Yankees,2B,"$12,000,000",30
