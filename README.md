@@ -36,7 +36,7 @@ From there, we created sql relational tables for each of the two data sources by
 ## Instructions
 
 1. Creating Database
-   - Create a database titled 'baseball_db' in pgAdmin
+   - Create a database titled 'baseball_db' in pgAdmin.
 
 2. Creating the Salaries Table
    - Run 'Creating_Salaries_Table' jupyter notebook file
