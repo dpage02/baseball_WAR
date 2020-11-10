@@ -10,7 +10,7 @@ WAR has quickly become one of the best ways to compare players and measure a val
 
 #### Questions to Answer
 
-1. In 2019, did the players with the highest salaries have the highest WAR (wins above replacement)?
+1. In 2019, did the players with the highest salaries have the highest WAR (wins above replacement)
 2. Was there any correlation between player position and WAR/salary?
 3. How does age play a role in both salary and WAR?
 3. Did position players or pitchers have a higher average WAR?
