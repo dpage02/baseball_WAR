@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of this project was to get some hands-on experience with the ETL (extract, transform, and load) process. We collected various data on baseball players to analyze if there's a relationship between a player's WAR (wins above replacement) and their salary. In other words, are the highest-paid players worth the money?
 
-WAR has quickly become one of the best ways to compare players and measure a value add to a win. This stat combines and weights a wide range of stats to truly reflect a players ability to generate wins over a replacement. What makes the stat popular is how applicable it is in its “replacement player” comparison. For more information on WAR, check out: [FanGraph War Description](https://library.fangraphs.com/misc/war/)
+WAR has quickly become one of the best ways to compare players and measure a value add to a win. This stat combines and weights a wide range of stats to truly reflect a players ability to generate wins over a replacement. What makes the stat popular is how applicable it is in its “replacement player” comparison. For more information on WAR, check out: [FanGraph War Description](https://library.fangraphs.com/misc/war/).
 
 
 ## Summary
