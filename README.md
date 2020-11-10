@@ -48,4 +48,4 @@ From there, we created sql relational tables for each of the two data sources by
    - Run 'schema.sql' file to update the table metadata.
 
 5. Digging in
-   - The data is set up and ready to go. Feel free to use the 'example_queries.sql' file to start digging in yourself.
+   - The data is set up and ready to go. Feel free to use the 'example_queries.sql' file to start digging in yourself!
