@@ -19,7 +19,7 @@ WAR has quickly become one of the best ways to compare players and measure a val
 #### Data Sources
 1. For data source one, I went to [FanGraph Leaderboard](https://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=8&season=2019&month=0&season1=2019&ind=0) and exported data to CSV to pull the players stats for the 2019 season. 
 
-1. The second data source was a web scrape from [Sportrac](https://www.spotrac.com/mlb/rankings/2019/salary/) to pull player name, salary,team, position, and age for top 100 highest-paid baseball players for 2019. Please see the 'Creating_Salaries_Table' jupyter notebook file for more information on how this data was extracted and processed.
+1. The second data source was a web scrape from [Sportrac](https://www.spotrac.com/mlb/rankings/2019/salary/) to pull player name, salary,team, position, and age for top 100 highest-paid baseball players for 2019. Please see the 'Creating_Salaries_Table' jupyter notebook file for more information on how this data was extracted and processed
 
 
 
