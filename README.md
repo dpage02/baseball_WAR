@@ -42,7 +42,7 @@ From there, we created sql relational tables for each of the two data sources by
    - Run 'Creating_Salaries_Table' jupyter notebook file.
 
 3. Creating the Player Position and Pitchers Tables
-   - Run 'Creating_Position_and_Pitchers_Table' jupyter notebook file
+   - Run 'Creating_Position_and_Pitchers_Table' jupyter notebook file.
 
 4. Updating Schemas
    - Run 'schema.sql' file to update the table metadata
