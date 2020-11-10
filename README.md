@@ -45,7 +45,7 @@ From there, we created sql relational tables for each of the two data sources by
    - Run 'Creating_Position_and_Pitchers_Table' jupyter notebook file.
 
 4. Updating Schemas
-   - Run 'schema.sql' file to update the table metadata
+   - Run 'schema.sql' file to update the table metadata.
 
 5. Digging in
    - The data is set up and ready to go. Feel free to use the 'example_queries.sql' file to start digging in yourself!
