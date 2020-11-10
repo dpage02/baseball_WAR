@@ -25,7 +25,7 @@ WAR has quickly become one of the best ways to compare players and measure a val
 
 #### Data Cleaning
 
-For the CSV file, the first step was to turn the table into a pandas data frame. The players were then split into positions (position palyer and pitcher). For the tables, PA was dropped for pitchers and IP was dropped for position players. 
+For the CSV file, the first step was to turn the table into a pandas data frame. The players were then split into positions (position palyer and pitcher). For the tables, PA was dropped for pitchers and IP was dropped for position player. 
 
 A handful of steps were done to clean up the data before loading it into the databases. For the second data source, we filtered to get the top 100 highest salary players and had to split some data into the correct columns (player and team name were being merged). We incorporated a mapping file to update the team names from abbreviations to full names (ex: 'WSH' to 'Nationals') so that it'd be able to join successfully on the first data source. For more information, please refer to the jupyter notebook files.
 
